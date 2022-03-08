@@ -1,2 +1,1 @@
-# simple-machine-ui
-Createe
+REACT_APP_Bored_MACHINE_ID=<YOUR CANDY MACHINE PROGRAM ID>
